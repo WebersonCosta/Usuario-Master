@@ -1,0 +1,57 @@
+# Usuário-Master
+Projeto desenvolvido como exemplo do Curso Completo de JavaScript na Udemy.com.
+
+
+# USUÁRIO MASTER
+
+### Função preventDefault();
+
+
+Evita o Envio do Formulário e permite que você valide os dados ou faça outras operações antes de decidir o que fazer com eles.
+
+
+### JSON
+
+
+JSON é um formato baseado em pares de chave-valor. Por exemplo:
+
+```javascript
+{
+  "nome": "João",
+  "idade": 30,
+  "email": "joao@example.com"
+}
+```
+
+### Promise
+
+
+Uma promessa é um objeto que representa a eventual conclusão ou falha de uma operação assíncrona e seu valor resultante. Ela pode estar em um dos seguintes estados:
+
+- **Pendente (Pending)**: Estado inicial, quando a operação ainda não foi concluída.
+- **Cumprida (Fulfilled)**: A operação foi concluída com sucesso.
+- **Rejeitada (Rejected)**: A operação falhou.
+
+
+### Object.assign
+
+
+O **Object.assign** é um método que é usado para copiar as propriedades de um ou mais objetos para um objeto de destino. Ele é muito útil para a criação de novos objetos a partir de objetos existentes, facilitando a combinação de propriedades e a criação de cópias de objetos.
+
+
+### sessionStorage
+
+
+é uma **API** de armazenamento web do JavaScript, que permite armazenar dados no navegador do usuário. A principal característica do sessionStorage é que ele mantém os dados apenas durante a sessão do navegador. Isso significa que os dados armazenados nele estão disponíveis enquanto a aba ou janela do navegador estiver aberta, mas serão perdidos assim que a aba for fechada.
+
+
+### localStorage
+
+
+O localStorage é outra **API** de armazenamento web do JavaScript, que permite armazenar dados no navegador do usuário de forma persistente. Ao contrário do sessionStorage, os dados armazenados no localStorage permanecem disponíveis mesmo após o fechamento da aba ou do navegador, até que sejam explicitamente removidos.
+
+
+### Função map
+
+
+A função map é um método de array que permite transformar cada elemento de um array em um novo valor, criando um novo array com esses valores transformados. Ele é muito útil para realizar operações em todos os elementos de um array sem modificar o original.
